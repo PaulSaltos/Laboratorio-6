@@ -121,6 +121,22 @@ Resistor de 4.7  kΩ Voltaje y Intensidad
 
 ![image](https://user-images.githubusercontent.com/85178869/127819701-c5d26e67-3c81-466b-b88c-46e2093336ce.png)
 
+# 4 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
+![image](https://user-images.githubusercontent.com/85178869/127886340-ca94b7e2-dd3c-4633-883b-a25307d9a836.png)
+
+![image](https://user-images.githubusercontent.com/85178869/127881033-cdf71e5e-5cbe-4f4d-9659-528605efd037.png)
+
+![image](https://user-images.githubusercontent.com/85178869/127885496-cad493c8-1acf-4020-82f3-3c5fb2be3f8d.png)
+
+![image](https://user-images.githubusercontent.com/85178869/127885717-bad6d8e6-fc4f-4a38-a0d1-ad537ce4bd13.png)
+
+![image](https://user-images.githubusercontent.com/85178869/127885771-4a9727bc-4616-4796-a8f2-cb8b463b229a.png)
+
+![image](https://user-images.githubusercontent.com/85178869/127885926-87a08317-c929-4594-9f43-0bd0ab346330.png)
+
+
+
 # 5 Video
 
 # 6 Conclusioneso
