@@ -36,8 +36,7 @@ Determinar la potencia mediante los valores medidos de tensión y corrientedel c
 
 # Marco Teorico
 
-
-
+![image](https://user-images.githubusercontent.com/85178869/127898217-4570d216-dad9-4a74-8bea-05249249e4a1.png)
 
 #  3.EXPLICACIÓN DEL PROCEDIMIENTO
 
