@@ -36,6 +36,9 @@ Determinar la potencia mediante los valores medidos de tensión y corrientedel c
 
 # Marco Teorico
 
+
+
+
 #  3.EXPLICACIÓN DEL PROCEDIMIENTO
 
 En este punto se debe explicar cómo funcionan la implementación del circuito y los cálculos de respaldo.
@@ -135,6 +138,9 @@ Resistor de 4.7  kΩ Voltaje y Intensidad
 
 ![image](https://user-images.githubusercontent.com/85178869/127885926-87a08317-c929-4594-9f43-0bd0ab346330.png)
 
+Tabla 6.1  Parametros electricos del circuito 
+
+![image](https://user-images.githubusercontent.com/85178869/127893771-445da01a-8e42-48e5-b9d3-f7958802927b.png)
 
 
 # 5 Video
@@ -148,3 +154,11 @@ Resistor de 4.7  kΩ Voltaje y Intensidad
 •  La potencia máxima será desarrollada en la carga cuando la resistencia de carga RL sea iguala la resistencia interna de la fuente Ri
 
 ● Cuando es importante obtener la máxima transferencia de potencia,la resistencia de carga debe adaptarse a la resistencia interna en las fuentes de voltaje.
+
+# 7 Bibliografia 
+
+• https://es.wikipedia.org/wiki/Teorema_de_m%C3%A1xima_potencia#:~:text=En%20ingenier%C3%ADa%20el%C3%A9ctrica%2C%20electricidad%20y,a%20la%20resistencia%20de%20fuente.
+
+• https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/
+
+• https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_09.htm
